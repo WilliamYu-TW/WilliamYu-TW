@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm William, a Software Engineer who loves to solve problems by utilising my expertises😄 
+
+- 🔭 I’m currently doing my Master degree of IT
+- 🌱 I’m currently learning Artificial Intelligence and Flutter!
+
 <!--
 **WilliamYu-TW/WilliamYu-TW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
