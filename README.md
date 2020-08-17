@@ -5,6 +5,9 @@ I'm William, a Software Engineer who loves to solve problems by utilising my exp
 - 🔭 I’m currently doing my Master degree of IT
 - 🌱 I’m currently learning Artificial Intelligence and Flutter!
 
+![William's github stats](https://github-readme-stats.vercel.app/api?username=WilliamYuTW&hide=contribs,prs&show_icons=true&count_private=true&theme=dracula)
+
+
 <!--
 **WilliamYu-TW/WilliamYu-TW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
