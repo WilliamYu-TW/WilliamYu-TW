@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm William, a Software Engineer who loves to solve problems by utilising my expertises😄 
+I'm William, a Software Engineer who loves to solve problems by utilising my knowledge😄 
 
 - 🔭 I’m currently doing my Master degree of IT
 - 🌱 I’m currently learning Artificial Intelligence and Flutter!
