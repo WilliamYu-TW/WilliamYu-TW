@@ -3,10 +3,9 @@
 I'm William, a Software Engineer who loves to solve problems by utilising my knowledge😄 
 
 - 🔭 I’m open for new opportunities based in Australia
-- 🌱 I’m currently learning Artificial Intelligence and Flutter!
-- ⚡ Working on [AndroidTemplate](https://github.com/WilliamYuTW/AndroidTemplate), check it out!
+- 🌱 I’m currently learning Artificial Intelligence and Jetpack Compose!
 
-![William's github stats](https://github-readme-stats.vercel.app/api?username=WilliamYuTW&hide=contribs,prs&show_icons=true&count_private=true&theme=dracula)
+![William's github stats](https://github-readme-stats.vercel.app/api?username=williamyyu&hide=contribs,prs&show_icons=true&count_private=true&theme=dracula)
 
 
 <!--
